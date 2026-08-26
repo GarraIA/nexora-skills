@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "id": "web",
+      "path": "web",
+      "title": "AAA Website",
+      "description": "Generate an awwwards-style website from a prompt — bold type, motion, and Replicate-generated imagery — and publish it to your GitHub repo.",
+      "icon": "globe",
+      "runtime": "web",
+      "version": "1.0.0",
+      "capabilities": ["text-to-image", "text-generation"],
+      "triggers": ["website", "web site", "landing page", "portfolio site", "awwwards", "one-pager", "marketing site"],
+      "files": []
+    }
+  ]
+}
