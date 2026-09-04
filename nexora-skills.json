@@ -8,10 +8,14 @@
       "description": "Generate an awwwards-style website from a prompt — bold type, motion, and Replicate-generated imagery — and publish it to your GitHub repo.",
       "icon": "globe",
       "runtime": "web",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "capabilities": ["text-to-image", "text-generation"],
-      "triggers": ["website", "web site", "landing page", "portfolio site", "awwwards", "one-pager", "marketing site"],
-      "files": []
+      "triggers": [
+        "website", "web site", "landing page", "portfolio site", "awwwards", "one-pager", "marketing site",
+        "site", "página", "landing", "site para", "agência", "página de vendas", "sitio web", "página web"
+      ],
+      "files": [],
+      "hashes": { "SKILL.md": "ed0cfe3800c7ecec8c863880eebe29ff14c1121440ec60eccc8258dbbe5ba62a" }
     }
   ]
 }
